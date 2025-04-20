@@ -2,6 +2,10 @@
 
 a2v is a simple script(that uses ffmpeg under the hood) to convert mp3/m4a audio file to mp4 video.
 
+## Purpose
+
+For educational purpose.
+
 ## Dependencies
 
 - os: linux mint
